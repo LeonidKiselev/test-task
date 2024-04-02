@@ -1,2 +1,1 @@
-# test-task
-my code example
+This is a test task which I once did for a certain company. I was not specially told not to upload it publicly and I believe there is not much confidential information in my ipynb file. This jupyter notebook is just another example to look at my code.
